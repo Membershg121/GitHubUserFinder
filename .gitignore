@@ -1,0 +1,46 @@
+# Файлы с данными пользователя (личные расходы)
+expenses.json
+*.json
+
+# Python байт-код
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.env/
+virtualenv/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
+
+# Файлы отчётов
+*.xlsx
+*.csv
+*.pdf
+
+# Резервные копии
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Системные файлы
+.directory
+.drone.yml
